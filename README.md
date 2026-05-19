@@ -1,3 +1,5 @@
+> 📦 **Easy install:** this skill is part of the Galaxy Maps stack. Use the one-step installer instead of cloning by hand → [`Galaxy-Maps/gm-agent-galaxy-map-creator-skill-install`](https://github.com/Galaxy-Maps/gm-agent-galaxy-map-creator-skill-install)
+>
 # Mission Critiquer
 
 Interactive mission-by-mission critique with approve / decline / modify suggestions.
